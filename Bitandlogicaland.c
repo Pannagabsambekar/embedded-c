@@ -11,3 +11,4 @@ int main(){
 
 
 }
+//string returns 0 when both strings are same
