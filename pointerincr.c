@@ -6,3 +6,4 @@ int main(){
   printf("%d",*p);
   return 0;
   }
+  // this is the post increment frist it assigns value and then increments it
