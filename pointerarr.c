@@ -7,3 +7,4 @@ for(int *p= a;p <= &a[4]; p++ ){
   printf("sum is %d", sum);
   return 0;
   }
+  
