@@ -8,3 +8,4 @@ car2.engine = "Its V4";
 printf("%s , %s", car1.engine, car2.engine);
 return 0;
 }
+// use %s in structures
