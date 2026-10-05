@@ -9,6 +9,5 @@ int main(){
 int b[]={1,2,3,4,5};
 int len =sizeof(b)/sizeof(b[0]);
 printf("%d",add(b , len)) ;
+//here b is same as a
 return 0;}
-
-
