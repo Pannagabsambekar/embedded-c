@@ -8,3 +8,4 @@ int main(){
  printf("%d  %s", c1.car_cc, c1.car_colour);
  return 0;
 }
+// typedef helps to change data type name , i have changed to "car" than struct car
